@@ -6,7 +6,7 @@ Northeastern University, Electrical and Computer Engineering, Fall 2026.
 
 ## Contents
 
-`dp_practice_q3_q6_q9.pdf` (source: `dp_practice_q3_q6_q9.tex`) covers each question in five parts:
+`Dynamic_Programming.pdf` covers each question in five parts:
 state and recurrence, pseudocode, table simulation, frequency count, and C++ with vectors.
 
 | Q | Problem | Answer | Time |
@@ -26,5 +26,3 @@ Build and run any of them with:
 ```
 g++ -std=c++17 -o gold_mine gold_mine.cpp && ./gold_mine
 ```
-
-`out_q3.png`, `out_q6.png` and `out_q9.png` are the terminal outputs used in the PDF.

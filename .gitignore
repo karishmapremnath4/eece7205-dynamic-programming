@@ -4,3 +4,6 @@ max_rectangle
 *.aux
 *.log
 .DS_Store
+*.tex
+*.png
+dp_practice_q3_q6_q9.pdf
